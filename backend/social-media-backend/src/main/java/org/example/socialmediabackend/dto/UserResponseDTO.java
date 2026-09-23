@@ -1,4 +1,4 @@
 package org.example.socialmediabackend.dto;
 
-public class dt {
+public class UserResponseDTO {
 }
